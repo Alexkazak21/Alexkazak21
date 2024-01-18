@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/Xmph6zIaPDb65SWEUT/giphy.gif" width="100"/>
 </div>
 <div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D0%B5%D0%B2%D0%B8%D1%87-5a5b88212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/александр-казакевич-5a5b88212/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
@@ -34,7 +34,7 @@ I am a Full Stack .Net Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I satisfying my adrenaline craving and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alexkazak21-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/Alexkazak21)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alexkazak21-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/александр-казакевич-5a5b88212/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
